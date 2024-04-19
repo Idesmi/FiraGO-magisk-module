@@ -1,0 +1,7 @@
+id=FiraGO-font
+name=FiraGO font
+version=v1.0
+versionCode=10
+author=Kilgore Trout
+description=A Magisk module to install the FiraGO font
+updateJson=https://github.com/Idesmi/FiraGO-magisk-module/raw/main/update.json
